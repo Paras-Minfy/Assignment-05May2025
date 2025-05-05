@@ -1,0 +1,12 @@
+Assignment 1 Starts:
+    I am Paras Saxena,
+    Doing Minfy 5May2025 A1,
+
+    It's a Git & GitHub Assesment,
+    => simple.txt > 5-10 line content
+    => Making 3 seprate meaningful changes
+
+    Go!!!
+
+    # Changes:
+        => 
