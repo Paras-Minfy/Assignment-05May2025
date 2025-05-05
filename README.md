@@ -53,7 +53,7 @@ Learn fundamental Git commands and their basic workflow.
 3. **Create and Work on a New Branch**  
    - Created a branch for updating the README file using `git branch feature/update-readme`.  
    - Switched to the new branch using `git checkout feature/update-readme`.  
-   - Made changes and committed them with `git commit -m "Change README.md"`.  
+   - Made changes and committed them with `git commit -m "A2 - Change README.md"`.  
    - Pushed changes to GitHub using `git push origin feature/update-readme`.  
 
 4. **Creating a Pull Request and Merging**  
