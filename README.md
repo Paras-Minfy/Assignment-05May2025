@@ -48,7 +48,9 @@ Learn fundamental Git commands and their basic workflow.
    - Pushed changes to GitHub with `git push -u origin main`.  
 
 2. **Pull Changes from GitHub**  
-   - Used `git pull origin main` to ensure the local repository is in sync with GitHub.  
+   - Used `git pull origin main` to ensure the local repository is in sync with GitHub.
+   - ![Assignment2SSp1](https://github.com/Paras-Minfy/Assignment-1-and-2/blob/main/Screenshots/Assignment2SSp1.png)
+   - ![Assignment2SSp2](https://github.com/Paras-Minfy/Assignment-1-and-2/blob/main/Screenshots/Assignment2SSp2.png)
 
 3. **Create and Work on a New Branch**  
    - Created a branch for updating the README file using `git branch feature/update-readme`.  
